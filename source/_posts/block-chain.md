@@ -10,10 +10,14 @@ tags:
 
 ## Website to blockchain simulation
 * React / Typescript
+
 ## Blockchain build by myself
 * Go-lang
+
 ## Smart Contract tutorial
 * Hardhat
+* Solidity
+
 ## DApp tutorial
 * Ethers.js & Web3.js
 * Next.js

@@ -3,12 +3,14 @@ title: study-savvy
 date: 2023-10-20 12:56:21
 tags:
 ---
-## UI
 ![](https://hackmd.io/_uploads/HkzkOqyfp.png)
-## Back-End server
+## Back - End
 * Go-lang gin
+* Python celery (Async Work)
+* Grafana (Monitor)
+* Numerous kind of database (SQL, Key-Value, Time serial...)
 * Kubernetes
-## App
+## Front - End (App)
 * Flutter
 
 [Read more](./study-savvy)
