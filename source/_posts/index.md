@@ -1,5 +1,6 @@
 ---
 title: Tcweeei website
+scripts: /personal_website/js/custom.js
 ---
 Welcome to my website.
 
