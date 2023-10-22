@@ -25,6 +25,10 @@ $(document).ready(function() {
 
     $button.on("click", function() {
         const selectedValue = $selectElement.val();
+        if (selectedValue===""){
+            alert("You should choose a city!");
+            return;
+        }
         console.log("Prediction with ", selectedValue);
         $.ajax({
             url: 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001',
