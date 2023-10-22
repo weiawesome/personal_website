@@ -1,11 +1,9 @@
 $(document).ready(function() {
 
-    // 选择元素
     const $selectElement = $("#regionSelect");
     const $button = $("#weatherButton");
     const $result = $("#resultTarget");
 
-    // 选择变化事件
     $selectElement.on("change", function() {
         const selectedValue = $selectElement.val();
         const selectedText = $selectElement.find("option:selected").text();
