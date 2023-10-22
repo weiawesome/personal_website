@@ -16,32 +16,43 @@ date: 2023-10-20 13:51:13
 2. Article Judging
    1. Collect the content or graph for the article
    2. Extract the content in the graph
-   3. Judge and supply the advice for the article 
-
-
+   3. Judge and supply the advice for the article
 ### System Architecture
-### Front - End (App)
+![](https://hackmd.io/_uploads/rk-tb7ffT.png)
+
+## Front - End
+**GitHub :** https://github.com/weiawesome/study_savvy_app
+
+![](https://raw.githubusercontent.com/weiawesome/study_savvy_api_go/master/resource/app.png)
 ### Skill
 * Flutter
+### Design Pattern
+* Bloc
+
+## Back - End
 ### Server
-### Skill
+**GitHub :** https://github.com/weiawesome/study_savvy_api_go
+#### Skill
 * Go-lang gin 
+#### Design Pattern
+* Layered
+
 ### Async Work
-### Skill
+**GitHub :** https://github.com/weiawesome/study_savvy_asyncwork_celery 
+#### Skill
 * Python celery
 ### Database
-### Skill
+#### Skill
 * MySQL
 * Redis
 * Influxdb
 * Prometheus
 
 ### Monitor
-### Skill
+#### Skill
 * Grafana
 
-
 ### Kubernetes
-### Skill
+#### Skill
 * Google Kubernetes Engine (GKE)
 * MicroK8S
